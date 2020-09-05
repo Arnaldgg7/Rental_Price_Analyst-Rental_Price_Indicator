@@ -2,6 +2,7 @@
 These are 2 Python programs aimed to retrieve automatically all information needed about rentals or overall prices of houses in a specific locations, and make predictions from them.
 
 PYTHON PROGRAMS - FUNCTIONALITIES
+
 PROGRAM 1: RENTAL PRICE ANALYST
 The Rental Price Analyst program performs the following actions and outcomes:
 1. It checks every page of a given URL of an important web portal of houses for rent in a stated
@@ -50,3 +51,4 @@ Additionally, another Rental Price Indicator program taps into those data by per
 linear regression model with the aforementioned fetched data items (rooms, square meters, floor, etc)
 and allows the user to find the objective right price for rent in such location by providing the features of
 the house for which is asking for such information.
+
