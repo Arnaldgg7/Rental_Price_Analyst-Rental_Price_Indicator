@@ -24,6 +24,7 @@ afterwards analysis.
 gather all the information and generates one email with the following:
   
   a. Monthly statistics about evolution of rentals in the current month:
+    
     i. Monthly average rental price.
     ii. Average of rooms in the offered houses for rent.
     iii. Average of square meters per house of those houses.
@@ -35,6 +36,7 @@ gather all the information and generates one email with the following:
   for exclusively see the evolution of every parameter as a picture format, and the other
   for data manipulation in HTML format) and for each database (houses for rent and
   rented houses) with the following information:
+    
     i. Price Mean evolution.
     ii. Price Standard Deviation evolution.
     iii. Square Meter Price evolution.
