@@ -22,6 +22,7 @@ afterwards analysis.
 
 5. The program is automatically executed daily, and every last day of each month the program
 gather all the information and generates one email with the following:
+  
   a. Monthly statistics about evolution of rentals in the current month:
     i. Monthly average rental price.
     ii. Average of rooms in the offered houses for rent.
@@ -51,4 +52,3 @@ Additionally, another Rental Price Indicator program taps into those data by per
 linear regression model with the aforementioned fetched data items (rooms, square meters, floor, etc)
 and allows the user to find the objective right price for rent in such location by providing the features of
 the house for which is asking for such information.
-
